@@ -1,0 +1,15 @@
+{
+  "name": "fn-randomuser",
+  "version": "1.0.0",
+  "description": "An AWS Lambda function to proxy endpoint: Randomuser.me",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm i"
+  },
+  "author": "Spudmash Media",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}
